@@ -1,0 +1,2 @@
+I am adding some text, because I accidentially added 
+to the READ ME file instead.
